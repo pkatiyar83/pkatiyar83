@@ -1,12 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,2&height=230&section=header&text=Pawon%20Kumar&fontSize=56&fontColor=ffffff&desc=Technical%20Lead%20Architect%20%C2%B7%20Cloud-native%20%C2%B7%20Event-driven&descSize=18&descAlignY=60&animation=fadeIn" alt="Pawon Kumar" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,2&height=230&section=header&text=Pawon%20Kumar&fontSize=56&fontColor=ffffff&desc=Technical%20Lead%20%2F%20Architect%20%C2%B7%20Cloud-native%20%C2%B7%20Event-driven&descSize=18&descAlignY=60&animation=fadeIn" alt="Pawon Kumar" />
 </p>
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://pkatiyar83.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=23&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=720&lines=Technical+Lead+Architect+%C2%B7+19%2B+years;Event-driven+%C2%B7+Zero-Trust+%C2%B7+Kubernetes;Architecting+platforms+at+enterprise+scale;Adopting+Agentic+AI+%E2%80%94+RAG+%C2%B7+MCP" alt="What I do" />
+    <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=23&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=720&lines=Technical+Lead+%2F+Architect+%C2%B7+19%2B+years;Event-driven+%C2%B7+Zero-Trust+%C2%B7+Kubernetes;Architecting+platforms+at+enterprise+scale;Adopting+Agentic+AI+%E2%80%94+RAG+%C2%B7+MCP" alt="What I do" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 
 ### 🏛️ What I architect
 
-> **Cloud-native, event-driven platforms** built on Domain-Driven Design — resilient, observable, and secured by a Zero-Trust mesh. Currently Technical Lead Architect for a multi-channel **Customer Communications Management (CCM)** platform, with a production **Agentic AI layer (RAG · MCP)** on top.
+> **Cloud-native, event-driven platforms** built on Domain-Driven Design — resilient, observable, and secured by a Zero-Trust mesh. Currently Technical Lead / Architect for a multi-channel **Customer Communications Management (CCM)** platform, with a production **Agentic AI layer (RAG · MCP)** on top.
 
 ```mermaid
 flowchart LR
@@ -35,7 +35,7 @@ flowchart LR
 
 ### 🚀 About me
 
-- 🏛️ **Technical Lead Architect** — platform-wide architecture for high-scale, distributed systems
+- 🏛️ **Technical Lead / Architect** — platform-wide architecture for high-scale, distributed systems
 - 🔀 **Event-Driven Architecture** — Kafka Streams, event sourcing, retry topics & DLT at enterprise scale
 - 🛡️ **Zero Trust Security** — Istio, OAuth2/JWT, mTLS, Vault — GDPR / DPDP / ISO 27001 aligned
 - 🤖 **Adopting Agentic AI** — RAG (vector search), ReAct loops, and MCP servers extending platforms
