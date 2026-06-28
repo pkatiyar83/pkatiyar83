@@ -54,13 +54,6 @@ flowchart LR
   <img src="https://img.shields.io/badge/RAG_·_MCP-f0a868?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pkatiyar83&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=2dd4bf&icon_color=5b9dff" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkatiyar83&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2dd4bf" alt="Top languages" />
-</p>
-
 ---
 
 ### 🏆 Selected impact
